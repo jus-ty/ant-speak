@@ -1,1 +1,1 @@
-Convert sentence to ANT TEXT
+Convert sentence to A N T  T E X T
